@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 💻 **Full-Stack Developer** | 📊 **AI & ML Enthusiast**  
-🎓 **Final Year Student** | **B. Tech in Information Technology @ BIT Mesra**    
+🎓 **Final Year Student** | **B. Tech in Information Technology**    
 🌟 **500+ Days LeetCode Streak**  
 
 ---
