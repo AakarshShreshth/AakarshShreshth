@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--# 👋🏻 Hi, I'm **[Aakarsh Shreshth](https://aakarshshreshth.github.io/Portfolio-React/)**  -->
 
-<img src="./images/banner.png" />
+<img width="100%" src="./images/banner.png" />
 
 ---
 
