@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <img src="./images/banner.png" />
 
+---
+
 <img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 💻 **Full-Stack Developer** | 📊 **AI & ML Enthusiast**  
