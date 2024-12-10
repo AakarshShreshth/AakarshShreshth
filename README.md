@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <!-- # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" height="40"> Hi, I'm **[Aakarsh Shreshth](https://aakarshshreshth.github.io/Portfolio-React/)**  -->
 
-# 👋🏻 Hi, I'm **[Aakarsh Shreshth](https://aakarshshreshth.github.io/Portfolio-React/)**  
+<!--# 👋🏻 Hi, I'm **[Aakarsh Shreshth](https://aakarshshreshth.github.io/Portfolio-React/)**  -->
+
+<img src="./images/banner.png" />
 
 <img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -179,6 +181,12 @@ I’m a passionate developer and lifelong learner who enjoys solving real-world 
   <a href="https://www.geeksforgeeks.org/user/aakarshshreshth/"><img src="https://img.icons8.com/color/40/GeeksforGeeks.png" height="40" alt="gfg logo"  /></a>
 </div>
 
+---
+
+<div height="24" align="center">
+<img height="24" src="https://komarev.com/ghpvc/?username=AakarshShreshth&label=PROFILE+VIEWS&style=flat" />
+</div>
+
 <!--
 ![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=jdk&logoColor=white)
@@ -198,11 +206,3 @@ I’m a passionate developer and lifelong learner who enjoys solving real-world 
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 -->
-
-
-
-###
-
-
-
-###
