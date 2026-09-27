@@ -172,11 +172,9 @@ I’m a passionate developer and lifelong learner who enjoys solving real-world 
   <img width="12" />
   <a href="https://www.linkedin.com/in/aakarshshreshth/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
-  <a href="https://aakarshshreshth.github.io/Portfolio-React/"><img src="https://img.icons8.com/color/40/domain--v1.png" height="40" alt="portfolio logo"  /></a>
+  <a href="https://aakarshshreshth.github.io"><img src="https://img.icons8.com/color/40/domain--v1.png" height="40" alt="portfolio logo"  /></a>
   <img width="12" />
   <a href="mailto:aakarshshreshth@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  /></a>
-  <img width="12" />
-  <a href="https://x.com/AakarshShreshth"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  /></a>
   <img width="12" />
   <a href="https://leetcode.com/u/aakarshshreshth/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40" alt="leetcode logo"  /></a>
   <img width="12" />
